@@ -1,0 +1,9 @@
+{
+  "name": "react-setup-scratch",
+  "version": "1",
+  "description": "Just a react boilerplate ",
+  "main": "index.js",
+  "repository": "https://github.com/Bijayini/react-setup-scratch.git",
+  "author": "Bijayini Parhi",
+  "license": "MIT"
+}

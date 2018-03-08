@@ -1,0 +1,1 @@
+Just a boilerplate to setup react environment.
