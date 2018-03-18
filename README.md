@@ -15,3 +15,7 @@ Get Yarn from https://yarnpkg.com/. You still can go ahead with npm "npm install
 ```
 yarn start
 ```
+To test your application, run
+
+* `npm run test` - single run - good for CI or precook
+* `npm run test:watch` - watches for changes, good for development
