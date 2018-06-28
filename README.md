@@ -19,3 +19,9 @@ To test your application, run
 
 * `npm run test` - single run - good for CI or precook
 * `npm run test:watch` - watches for changes, good for development
+
+
+  Why Used like this:
+  
+  only extract-text-webpack-plugin:next is supported with webpack4
+  husky: ^1.0.0-rc.9 is supported for yarn.
