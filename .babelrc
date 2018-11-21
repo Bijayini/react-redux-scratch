@@ -1,4 +1,4 @@
 {
-  "presets": ["react", "stage-2"],
+  "presets": ["react", "env"],
   "plugins": ["transform-react-jsx-source"] //Changed preset & added plugin to support class field syntax & spread syntax
 }

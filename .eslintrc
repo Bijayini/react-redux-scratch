@@ -41,9 +41,13 @@
     "prettier/prettier": "warn"
   },
   "globals": {
-    "document": true
+    "document": true,
+    "mount": true,
+    "render":true,
+    "shallow":true
   },
   "env": {
-    "es6": true
+    "es6": true,
+    "jest": true
   }
 }
